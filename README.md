@@ -7,12 +7,21 @@ Surface Pro 6 黑苹果  CLOVER 配置文件
 配置信息
 
 品牌型号：Microsoft surface pro 6
-CPU： Core i5-8250U 
+
+CPU： Core i5-8250U
+
 显卡：UHD Graphics 620 128MB
+
 内存：8GB
+
 声卡：ALC298
+
 无线网卡：Marvell Marvell AVASTAR Wireless-AC Network Controller
+
 显示屏：LGD0555 12.3 英寸
+
 分辨率： 2736 x 1824
+
 硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB (固态硬盘)
+
 

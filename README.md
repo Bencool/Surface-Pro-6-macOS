@@ -22,6 +22,6 @@ CPU： Core i5-8250U
 
 分辨率： 2736 x 1824
 
-硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB (固态硬盘)
+硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB 
 
 

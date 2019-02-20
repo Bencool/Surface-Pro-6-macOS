@@ -47,4 +47,13 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 特别提示：</br>
 如果重建缓存之后重启跑玩-v代码后重启的，那么选择congfig-out-Dispaly.Plist 这个配置文件，然后连接上显示器就可以正常进入驱动后的系统，然后再一次重建缓存，重启之后使用默认配置文件就可以驱动内屏了！</br>
 <h2>系统截图</h2>
-<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/1.jpg"/>
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/1.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/2.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/3.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/4.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/5.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/6.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/7.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/8.jpg" />
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/9.jpg" />
+

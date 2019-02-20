@@ -21,6 +21,8 @@ CPU： Core i5-8250U
 
 显示屏：LGD0555 12.3 英寸
 
+显示屏比例：3:2
+
 分辨率： 2736 x 1824
 
 硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB 

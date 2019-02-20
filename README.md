@@ -13,6 +13,10 @@ Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的�
   <li>分辨率： 2736 x 1824</li>
   <li>硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB</li>
 </ul>
+<h2>更新信息：</h2>
+<ul>
+  <li>暂无。</li>
+</ul>
 <h2>macOS 版本：</h2>
 
 <ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</li></ul>

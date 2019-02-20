@@ -13,14 +13,14 @@ Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的�
   <li>分辨率： 2736 x 1824</li>
   <li>硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB</li>
 </ul>
-<h4>macOS 版本：</h4>
+<h2>macOS 版本：</h2>
 
 <ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</li></ul>
-<h4>CLOVER版本：</h4>
+<h2>CLOVER版本：</h2>
 <ul><li>CLOVER 4877。</li></ul>
-<h4>SMC版本：</h4>
+<h2>SMC版本：</h2>
 <ul><li>使用VirtualSMC 1.2.7</li></ul>
-<h4>目前完成：</h4>
+<h2>目前完成：</h2>
 <ul>
   <li>内屏显示内建正常；</li>
   <li>亮度调节正常；</li>
@@ -33,7 +33,7 @@ Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的�
   <li>iMessage登陆正常</li>
   </ul>
 TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后，首先使用Apple 有线转接网卡进行联网，此时系统自动内建en0，然后再安装外置USB网卡驱动即为en1。
-<h4>未进行项目：</h4>
+<h2>未进行项目：</h2>
 <ul>
 <li>音量+-按键；</li>
 <li>触控板；</li>
@@ -42,7 +42,7 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 <li>全球暂时无解：触摸屏、内置蓝牙、内置WiFi；</li>
 <li>期待你的完善分享！</li>
 </ul>
-<h4>安装过程：</h4>
+<h2>安装过程：</h2>
 使用config-Install.Plist 文件进行全程安装，安装完成后先用这个配置文件进系统使用kexts Uiltiy 进行重建缓存，然后重启使用默认配置文件即可驱动内屏！</br>
 特别提示：</br>
 如果重建缓存之后重启跑玩-v代码后重启的，那么选择congfig-out-Dispaly.Plist 这个配置文件，然后连接上显示器就可以正常进入驱动后的系统，然后再一次重建缓存，重启之后使用默认配置文件就可以驱动内屏了！</br>

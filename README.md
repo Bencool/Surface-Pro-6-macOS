@@ -13,22 +13,25 @@ Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的�
   <li>分辨率： 2736 x 1824</li>
   <li>硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB</li>
 </ul>
-macOS 版本：</br>
-macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</br>
-CLOVER版本：</br>
-CLOVER 4877。</br>
-SMC版本：</br>
-使用VirtualSMC 1.2.7</br>
-目前完成：</br>
-内屏显示内建正常；</br>
-亮度调节正常；</br>
-外接HDMI正常，可以同时使用内屏；</br>
-ALC298内建正常；</br>
-休眠睡眠唤醒正常；</br>
-使用原装网线转接卡正常使用en0，同时可以使用外置USB网卡en1；</br>
-iCloud登陆正常；</br>
-App Store登陆正常，下载正常；</br>
-iMessage登陆正常</br>
+<h4>macOS 版本：</h4>
+
+<ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</li></ul>
+<h4>CLOVER版本：</h4>
+<ul><li>CLOVER 4877。</li></ul>
+<h4>SMC版本：</h4>
+<ul><li>使用VirtualSMC 1.2.7</li></ul>
+<h4>目前完成：</h4>
+<ul>
+  <li>内屏显示内建正常；</li>
+  <li>亮度调节正常；</li>
+  <li>外接HDMI正常，可以同时使用内屏；</li>
+  <li>ALC298内建正常；</li>
+  <li>休眠睡眠唤醒正常；</li>
+  <li>使用原装网线转接卡正常使用en0，同时可以使用外置USB网卡en1；</li>
+  <li>iCloud登陆正常；</li>
+  <li>App Store登陆正常，下载正常；</li>
+  <li>iMessage登陆正常</li>
+  </ul>
 TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后，首先使用Apple 有线转接网卡进行联网，此时系统自动内建en0，然后再安装外置USB网卡驱动即为en1。
 未进行项目：</br>
 音量+-按键；</br>

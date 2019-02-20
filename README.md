@@ -1,11 +1,11 @@
 
-Surface Pro 6 黑苹果  CLOVER 配置文件
+=Surface Pro 6 黑苹果  CLOVER 配置文件
 
 
 Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个过程我很享受。
 
 
-配置信息
+=配置信息
 
 品牌型号：Microsoft surface pro 6
 
@@ -28,15 +28,15 @@ CPU： Core i5-8250U
 硬盘：	SK HYNIX Skhynix BC501 NVMe 128GB 
 
 
-macOS 版本：
+=macOS 版本：
 macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版
 
 
-CLOVER版本：
+=CLOVER版本：
 CLOVER 4877。
 
 
-SMC版本：
+=SMC版本：
 使用VirtualSMC 1.2.7
 
 

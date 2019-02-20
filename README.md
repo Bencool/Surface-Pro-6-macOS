@@ -1,4 +1,4 @@
-<h1>Surface Pro 6 黑苹果  CLOVER 配置文件</h1></br>
+<h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
 Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个过程我很享受</br>
 <h2>配置信息</h2>
 <ul>

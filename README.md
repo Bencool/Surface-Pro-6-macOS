@@ -2,7 +2,7 @@
 Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个过程我很享受</br>
 <h2>配置信息</h2>
 <ul>
-  <li>品牌型号：Microsoft surface pro 6</li>
+  <li>品牌型号：Microsoft Surface Pro 6 无风扇版</li>
   <li>CPU： Core i5-8250U</li>
   <li>显卡：UHD Graphics 620 128MB</li>
   <li>内存：8GB</li>
@@ -55,7 +55,7 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
   <li>config-Install.Plist</li>
   <li>config-out-Display.Plist</li>
 </ul>
-<p>理论上默认的config.Plist配置文件应该能治疗目前所有八代UHD620高分内屏！</span></p>
+<p>理论上默认的config.Plist配置文件应该能治疗目前所有八代UHD620高分内屏黑屏！</span></p>
 
 <H2>安装过程:</H2>
 使用config-Install.Plist 文件进行全程安装，安装完成后先用这个配置文件进系统使用kexts Uiltiy 进行重建缓存，然后重启使用默认配置文件即可驱动内屏！</br>

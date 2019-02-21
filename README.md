@@ -1,5 +1,10 @@
 <h1>Surface Pro 6 黑苹果  CLOVER 配置文件,全球首发</h1></br>
 Surface Pro 6 的UEFI BIOS和别的机型BIOS相比较处在一个很特殊的地位，我光是为了解决卡++++++++就花了将近一个月，总过花了一个月17天终于解决了UHD620内屏黑屏的问题！这背后总共试验了1200多次试错，我也收获了对surface pro系列的一些特性了解，整个折腾过程我很享受</br>
+
+很感谢<A HREF="https://github.com/gdllzkusi/hackintosh--lenovo-Yoga-3-Pro-1370">hackintosh--lenovo-Yoga-3-Pro-1370</A>,在他提供的经验帮助之上，我修改了适合Pro6 的配置文件最终实现了Surface Pro6 内屏的完美，在没有修复内屏之前我都是使用外接显示器来使用macOS，现在也可以成功使用内屏。这里也很感谢为黑苹果做出过努力的大神，感谢你们的教程。
+
+远景论坛查看帖子：<A HREF="http://bbs.pcbeta.com/viewthread-1806047-1-1.html">Surface Pro6 黑苹果</A>
+
 <h2>配置信息</h2>
 <ul>
   <li>品牌型号：Microsoft Surface Pro 6 无风扇版</li>

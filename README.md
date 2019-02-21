@@ -47,7 +47,7 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 <li>期待你的完善分享！</li>
 </ul>
 <h2>EFI文件：</h2>
-<h5>config文件、kexts、SSDT文件都在OEM/Surface Pro 6/UEFI/内。</H5>
+<h5>config文件、kexts、SSDT文件都在EFI/CLOVER/OEM/Surface Pro 6/UEFI/内。</H5>
 
 <H5>config文件有三个：</h5>
 <ul>
@@ -57,7 +57,7 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 </ul>
 <p>理论上默认的config.Plist配置文件应该能治疗目前所有八代UHD620高分内屏！</span></p>
 
-<H2>安装过程</H2>
+<H2>安装过程:</H2>
 使用config-Install.Plist 文件进行全程安装，安装完成后先用这个配置文件进系统使用kexts Uiltiy 进行重建缓存，然后重启使用默认配置文件即可驱动内屏！</br>
 <h4>特别提示：</h4>
 如果重建缓存之后重启跑玩-v代码后重启的，那么选择congfig-out-Dispaly.Plist 这个配置文件，然后连接上显示器就可以正常进入驱动后的系统，然后再一次重建缓存，重启之后使用默认配置文件就可以驱动内屏了！</br>

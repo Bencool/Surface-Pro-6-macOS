@@ -49,8 +49,9 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 <h2>安装过程：</h2>
 <h5>config文件、kexts、SSDT文件都在OEM/Surface Pro 6/UEFI/内。</H5>
 
-<ul>config文件有三个：
-  <li>config.Plist</li>
+<H5>config文件有三个：</h5>
+<ul>
+  <li>config.Plist<span style="font-weight:700;">理论上默认的config.Plist配置文件应该能治疗目前所有八代UHD620高分内屏！</span></li>
   <li>config-Install.Plist</li>
   <li>config-out-Display.Plist</li>
 </ul>

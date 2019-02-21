@@ -46,17 +46,20 @@ TPS：我没有使用代码仿冒一个无用的en0，我是先装好系统后�
 <li>全球暂时无解：触摸屏、内置蓝牙、内置WiFi；</li>
 <li>期待你的完善分享！</li>
 </ul>
-<h2>安装过程：</h2>
+<h2>EFI文件：</h2>
 <h5>config文件、kexts、SSDT文件都在OEM/Surface Pro 6/UEFI/内。</H5>
 
 <H5>config文件有三个：</h5>
 <ul>
-  <li>config.Plist<span style="font-weight:700;">理论上默认的config.Plist配置文件应该能治疗目前所有八代UHD620高分内屏！</span></li>
+  <li>config.Plist</li>
   <li>config-Install.Plist</li>
   <li>config-out-Display.Plist</li>
 </ul>
+<p>理论上默认的config.Plist配置文件应该能治疗目前所有八代UHD620高分内屏！</span></p>
+
+<H2>安装过程</H2>
 使用config-Install.Plist 文件进行全程安装，安装完成后先用这个配置文件进系统使用kexts Uiltiy 进行重建缓存，然后重启使用默认配置文件即可驱动内屏！</br>
-特别提示：</br>
+<h4>特别提示：</h4>
 如果重建缓存之后重启跑玩-v代码后重启的，那么选择congfig-out-Dispaly.Plist 这个配置文件，然后连接上显示器就可以正常进入驱动后的系统，然后再一次重建缓存，重启之后使用默认配置文件就可以驱动内屏了！</br>
 <h2>系统截图</h2>
 <img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/1.jpg" />

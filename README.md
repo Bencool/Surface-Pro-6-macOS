@@ -27,7 +27,10 @@
 
 <ul><li>macOS 10.13.6 - macOS 10.14.x，我目前使用macOS 10.14.2正式版</li></ul>
 <h2>CLOVER版本：</h2>
-<ul><li>CLOVER 4877。</li></ul>
+<img src="https://github.com/molie34/Surface-Pro-6/blob/master/images/0.jpg" />
+<ul><li>CLOVER 4877</li>
+   
+</ul>
 <h2>SMC版本：</h2>
 <ul><li>使用VirtualSMC 1.2.7</li></ul>
 <h2>目前完成：</h2>
